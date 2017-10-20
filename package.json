@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "seraphwu (小明)",
+  "repository": "https://github.com/guday/wepy-plugin-preprocess",
   "license": "MIT",
   "dependencies": {
     "preprocess": "^3.1.0"

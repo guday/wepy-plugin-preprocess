@@ -1,6 +1,6 @@
 # wepy-plugin-preprocess
 
-##用途
+## 用途
 
 * 小程序wepy框架下的 preprocess plugin配置
 * 对项目文件进行 preprocess 处理
